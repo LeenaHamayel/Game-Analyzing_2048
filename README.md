@@ -12,7 +12,7 @@
 - `game_sessions_data.json` : ملف يحتوي على بيانات اللعب المسجلة.
 - `ml_model.ipynb` : ملف Google Colab لتحليل البيانات وتدريب نموذج ML.
 - `تقرير_مشروع_2048.docx` : التقرير النهائي للمشروع.
-- `video_demo.mp4` : فيديو توضيحي (اختياري).
+- `video_demo.mp4` :فيديو توضيحي.
 
 ## كيفية تشغيل اللعبة
 1. افتح ملف `index.html` في متصفح الويب (Google Chrome أو Firefox).
